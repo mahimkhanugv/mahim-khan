@@ -1,0 +1,32 @@
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    padding: 16px;
+    background-color: bisque;
+}
+body{
+    background-color: black;
+}
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td,th{
+    border: 1px solid black;
+    text-align: center;
+    padding: 16px;
+}
+a{
+    font-size: 24px;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+}
